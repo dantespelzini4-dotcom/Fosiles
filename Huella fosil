@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<meta charset="UTF-8">
+<title>Fosil hallado</title>
+</head>
+
+<body>
+
+<h1>Arcillita Violeta</h1>
+
+<img src="Huella fosil.png" width="500">
+
+<p>
+Aquí se observa una huella fosil procedente de... (individuo: caracteristicas, habitat, etc)
+</p>
+
+<h2>¿Cómo llego aca?</h2>
+
+<p>
+Texto explicativo...
+</p>
+
+<h2>¿Qué observar?</h2>
+
+<ul>
+<li>Estratificación</li>
+<li>Coloración</li>
+<li>Erosión diferencial</li>
+</ul>
+
+</body>
+</html>
